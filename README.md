@@ -1,11 +1,11 @@
-# 👋 Hello, my name is Ricardo
+# 👋 Hello, my name is Ricardo.
 ## Welcome to my Github profile. 
+I'm a Brazilian programming student. Currently intern at Domótica Engenharia
+Stuyding Software Engineering at PUCRS
+21 years
+Living in Porto Alegre/RS
 
 <!--
-**RicardoGraziato/RicardoGraziato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

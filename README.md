@@ -1,9 +1,9 @@
 # 👋 Hello, my name is Ricardo.
 ## Welcome to my Github profile. 
-I'm a Brazilian programming student. Currently intern at Domótica Engenharia
-Stuyding Software Engineering at PUCRS
-21 years
-Living in Porto Alegre/RS
+- I'm a Brazilian programming student. Currently intern at Domótica Engenharia
+- Stuyding Software Engineering at PUCRS
+- 21 years
+- Living in Porto Alegre/RS
 
 <!--
 - 🔭 I’m currently working on ...

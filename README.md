@@ -5,6 +5,12 @@
 - 21 years
 - Living in Porto Alegre/RS
 
+## Technologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+          
+          
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

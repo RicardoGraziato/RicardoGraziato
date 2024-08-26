@@ -2,7 +2,7 @@
 ## Welcome to my Github profile. 
 - I'm a Brazilian programming student. Currently intern developer at Domótica Engenharia
 - Stuyding Software Engineering at <a href="https://www.pucrs.br/">PUCRS</a>.
-- 21 years
+- 22 years
 - Living in Porto Alegre/RS
 - Academic email: **ricardo.graziato@edu.pucrs.br**
 

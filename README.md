@@ -1,6 +1,6 @@
 # 👋 Hello, my name is Ricardo.
 ## Welcome to my Github profile. 
-- I'm a Brazilian programming student. Currently intern developer at EMED Tecnologia S/A
+- I'm a Brazilian programming student. Currently intern developer at [EMED Tecnologia S/A](https://emed.com.br/)
 - Stuyding Software Engineering at <a href="https://www.pucrs.br/">PUCRS</a>.
 - 22 years
 - Living in Porto Alegre/RS
